@@ -7,9 +7,11 @@ export const Layout = () => {
     return (
         <>
             <Header />
-            <Suspense fallback={<Loading />}>
-                <Outlet />
-            </Suspense>
+            <main className="mx-auto max-w-7xl px-6 min-h-[calc(100vh-96px)]">
+                <Suspense fallback={<Loading />}>
+                    <Outlet />
+                </Suspense>
+            </main>
         </>
     );
 };
