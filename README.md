@@ -4,6 +4,8 @@ Aplicação desenvolvida em **React** com **TypeScript** que consome a **API pú
 
 O projeto foi desenvolvido como parte de um **desafio técnico**, com foco em boas práticas de componentização, tipagem, consumo de API e rotas no frontend.
 
+Demo ao vivo: https://evandrobaraka.github.io/studio-ghibli-films-react/
+
 ---
 
 ## 🚀 Funcionalidades
