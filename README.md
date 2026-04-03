@@ -27,8 +27,8 @@ Demo ao vivo: https://evandrobaraka.github.io/studio-ghibli-films-react/
 - **TypeScript**
 - **React Router DOM**
 - **Fetch API**
-- **Tailwind CSS** *(se aplicável)*
-- **Vite** *(ou Create React App)*
+- **Tailwind CSS** 
+- **Vite** 
 
 ---
 
